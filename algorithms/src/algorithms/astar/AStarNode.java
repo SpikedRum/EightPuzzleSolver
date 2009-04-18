@@ -3,7 +3,7 @@ package algorithms.astar;
 import java.util.*;
 
 /**
- *
+ * Models a node in an A Star Search Path.
  * @author amcgoogan
  */
 public class AStarNode {
